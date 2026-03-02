@@ -1,11 +1,3 @@
-Конечно, Дима 😎
-Вот тебе красивый, профессиональный README.md, который не стыдно показать работодателю.
-
-Просто создай файл README.md и вставь это 👇
-
-⸻
-
-
 # ☕ Urban Brew — Modern Café Website
 
 Production-ready marketing website for a modern café built with Next.js 14 and Tailwind CSS.
