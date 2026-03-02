@@ -2,8 +2,8 @@
 
 Production-ready marketing website for a modern café built with Next.js 14 and Tailwind CSS.
 
-🔗 Live Demo: https://your-vercel-link.vercel.app  
-📂 GitHub: https://github.com/yourusername/urban-brew-website
+🔗 Live Demo: https://urban-brew-website.vercel.app 
+📂 GitHub: https://github.com/kethonyx/urban-brew-website
 
 ---
 
@@ -14,8 +14,6 @@ Production-ready marketing website for a modern café built with Next.js 14 and 
 - Tailwind CSS
 - React
 - API Routes
-- SEO Optimized
-- Lighthouse 90+ Performance
 
 ---
 
