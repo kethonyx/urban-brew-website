@@ -64,15 +64,15 @@ urban-brew/
 ```bash
 git clone https://github.com/yourusername/urban-brew-website.git
 cd urban-brew-website
-
+```
 2️⃣ Install dependencies
-
+```bash
 npm install
-
+```
 3️⃣ Run development server
-
+```bash
 npm run dev
-
+```
 Open http://localhost:3000
 
 ⸻
